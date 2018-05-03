@@ -1,0 +1,20 @@
+{
+  "name": "@po.et/stylelint-rules",
+  "version": "1.0.0",
+  "description": "Po.et - Stylint rules",
+  "main": "poet-stylelint.js",
+  "author": "",
+  "license": "ISC",
+  "peerDependencies": {
+    "stylelint": "^9.1.0"
+  },
+  "dependencies": {
+    "stylelint-config-recommended-scss": "3.1.0",
+    "stylelint-declaration-use-variable": "1.6.0",
+    "stylelint-order": "0.8.1",
+    "stylelint-scss": "2.4.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

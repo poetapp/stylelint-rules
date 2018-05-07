@@ -1,6 +1,6 @@
 {
   "name": "@po.et/stylelint-rules",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Po.et - Stylelint rules",
   "main": "poet-stylelint.js",
   "author": "",

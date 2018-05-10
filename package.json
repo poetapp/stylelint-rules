@@ -5,8 +5,8 @@
   "main": "poet-stylelint.js",
   "author": "",
   "license": "ISC",
-  "repository": { 
-    "type": "git", 
+  "repository": {
+    "type": "git",
     "url": "https://github.com/poetapp/stylelint-rules"
   },
   "peerDependencies": {

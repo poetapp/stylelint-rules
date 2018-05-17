@@ -2,6 +2,8 @@
 
 [![Greenkeeper badge](https://badges.greenkeeper.io/poetapp/stylelint-rules.svg)](https://greenkeeper.io/)
 
+[![Build Status](https://travis-ci.org/poetapp/stylelint-rules.svg?branch=master)](https://travis-ci.org/poetapp/stylelint-rules)
+
 - Install 
 
 ```

@@ -1,22 +1,24 @@
 {
   "name": "@po.et/stylelint-rules",
   "version": "1.1.0",
-  "description": "Po.et - Stylelint rules",
+  "description": "Po.et Stylelint rules",
   "main": "poet-stylelint.js",
-  "author": "",
-  "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "https://github.com/poetapp/stylelint-rules"
+    "url": "git+https://github.com/poetapp/stylelint-rules"
   },
-  "peerDependencies": {
-    "stylelint": "^9.1.0"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/poetapp/stylelint-rules/issues"
   },
   "dependencies": {
     "stylelint-config-recommended-scss": "3.2.0",
     "stylelint-declaration-use-variable": "1.7.0",
     "stylelint-order": "1.0.0",
     "stylelint-scss": "3.3.0"
+  },
+  "peerDependencies": {
+    "stylelint": "^9.1.0"
   },
   "publishConfig": {
     "access": "public"

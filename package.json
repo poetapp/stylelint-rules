@@ -3,6 +3,9 @@
   "version": "1.1.0",
   "description": "Po.et - Stylelint rules",
   "main": "poet-stylelint.js",
+  "scripts": {
+    "semantic-release": "semantic-release"
+  },
   "author": "",
   "license": "ISC",
   "repository": {
@@ -20,5 +23,8 @@
   },
   "publishConfig": {
     "access": "public"
+  },
+  "devDependencies": {
+    "semantic-release": "15.9.9"
   }
 }

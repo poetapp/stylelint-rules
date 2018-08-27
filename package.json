@@ -27,6 +27,6 @@
     "access": "public"
   },
   "devDependencies": {
-    "semantic-release": "15.9.9"
+    "semantic-release": "15.9.11"
   }
 }

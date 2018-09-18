@@ -6,10 +6,9 @@
     "dependencies"
   ],
   "reviewers": ["poetapp/quality-engineering"],
-  "timezone": "EDT",
   "schedule": [
-    "after 11pm",
-    "before 1am"
+    "after 1am",
+    "before 3am"
   ],
   "patch": {
     "automerge": true

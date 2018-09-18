@@ -7,8 +7,8 @@
   ],
   "reviewers": ["poetapp/quality-engineering"],
   "schedule": [
-    "after 1am",
-    "before 3am"
+    "after 2am",
+    "before 4am"
   ],
   "patch": {
     "automerge": true

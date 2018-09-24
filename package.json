@@ -4,7 +4,8 @@
   "description": "Po.et stylelint rules",
   "main": "poet-stylelint.js",
   "scripts": {
-    "semantic-release": "semantic-release"
+    "semantic-release": "semantic-release",
+    "travis-deploy-once": "travis-deploy-once"
   },
   "repository": {
     "type": "git",
@@ -27,6 +28,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "semantic-release": "15.9.16"
+    "semantic-release": "15.9.16",
+    "travis-deploy-once": "5.0.8"
   }
 }

@@ -28,7 +28,7 @@
     "access": "public"
   },
   "devDependencies": {
-    "semantic-release": "15.9.16",
+    "semantic-release": "15.9.17",
     "travis-deploy-once": "5.0.9"
   }
 }

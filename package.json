@@ -22,7 +22,7 @@
     "stylelint-scss": "3.3.2"
   },
   "peerDependencies": {
-    "stylelint": "9.6.0"
+    "stylelint": "9.7.0"
   },
   "publishConfig": {
     "access": "public"

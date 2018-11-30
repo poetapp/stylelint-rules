@@ -18,3 +18,7 @@ In  `.stylelintrc`, add the extension:
     "extends": "@po.et/stylelint-rules"
 }
 ```
+
+## [Contributing](https://github.com/poetapp/documentation/blob/master/CONTRIBUTING.md)
+
+## [Security](https://github.com/poetapp/documentation/blob/master/SECURITY.md)
